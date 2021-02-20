@@ -7,11 +7,6 @@ EXAMPLE PLOT:
 
 
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-  
   <head>
     
       <meta charset="utf-8">
@@ -89,4 +84,3 @@ EXAMPLE PLOT:
     
   </body>
   
-</html>
