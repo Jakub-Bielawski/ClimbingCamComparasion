@@ -1,0 +1,1 @@
+// Tu powinny być skrypty w jsie, tzn to co masz w <script> tagu wskazujesz na to za pomoca src
